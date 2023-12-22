@@ -13,7 +13,7 @@ const About = () => {
       <h1 className="head-text">
         Hello, I'm{" "}
         <span className="blue-gradient_text font-semibold drop-shadow">
-          Ngouagna
+          Tchimze
         </span>
       </h1>
 
