@@ -1,10 +1,16 @@
-# React + Vite
+# 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Description:**
+My 3D portfolio showcases a collection of meticulously crafted digital worlds. From low-poly architectural marvels to hyper-realistic simulations, I explore the intersection of art and algorithms. Each project is an invitation to step beyond the screen and immerse yourself in visual storytelling.
 
-Currently, two official plugins are available:
+**What Problem Does It Solve?**
+- **Inspiration**: Aspiring 3D artists and developers can find inspiration and learn from my projects.
+- **Showcase**: It serves as a visual resume, demonstrating my skills and creativity to potential collaborators or employers.
+- **Community**: By sharing open-source code and techniques, I contribute to the 3D community.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# 3d_porfolio" 
-"# 3d_porfolio" 
+**Why Is It Valuable?**
+- **Bridge Theory and Practice**: My portfolio bridges theoretical knowledge with practical application. It's a playground for experimentation.
+- **Aesthetic Exploration**: Whether it's a pixelated forest or a futuristic cityscape, I explore diverse aesthetics.
+- **Impactful Experiences**: Through lighting, textures, and composition, I create experiences that resonate with viewers.
+
+Explore the pixels, polygons, and possibilities—I invite you to journey through my 3D universe.
